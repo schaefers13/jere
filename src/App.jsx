@@ -14,18 +14,18 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "Di si por favor",
+    description: "Di si por favor Jere",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
     id: 1,
-    description: "Piénsalo de nuevo.",
+    description: "Piénsalo de nuevo Yeye.",
     img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
     ,
   {
     id: 2,
-    description: "Vamos, atrévete a decir que sí.",
+    description: "Vamos, atrévete a decir que sí bby.",
     img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
   },
   {
@@ -111,7 +111,7 @@ function App() {
                 disabled={imagenCargada} // Deshabilita el botón si la imagen no se ha cargado
               >
                 {Object.keys(randomValor).length === 0 ? "No" : randomValor.description}
-                <span hidden>{document.title = Object.keys(randomValor).length === 0 ? "¿Quieres ser mi San Valentin?" : randomValor.description}</span>
+                <span hidden>{document.title = Object.keys(randomValor).length === 0 ? "¿Quieres ser mi San Valentin Yeye?" : randomValor.description}</span>
               </button>
             </div>
           </div>
