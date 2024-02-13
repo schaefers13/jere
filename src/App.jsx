@@ -118,7 +118,7 @@ function App() {
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
             <h1 className="text-4xl text-white font-bold">Sabia que dirias que si Jere ❤️!</h1>
-            <img src="http://olegif.com/bin/gifs/00/15/93.gif" alt="" className="mx-auto" />>
+             <img src="http://olegif.com/bin/gifs/00/15/93.gif" alt="" className="mx-auto" />
             <span hidden>{document.title = 'Sabia que dirias que si ❤️!'}</span>
           </div>
         )
