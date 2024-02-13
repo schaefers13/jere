@@ -118,7 +118,7 @@ function App() {
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
             <h1 className="text-4xl text-white font-bold">Sabia que dirias que si Jere ❤️!</h1>
-            <vid src="https://youtu.be/OukQDrJ7QRQ?si=1NthFhB-DqjHjwP8" alt="" className="mx-auto" />
+            <[![](https://markdown-videos.deta.dev/youtube/OukQDrJ7QRQ)](https://youtu.be/OukQDrJ7QRQ)>
             <span hidden>{document.title = 'Sabia que dirias que si ❤️!'}</span>
           </div>
         )
